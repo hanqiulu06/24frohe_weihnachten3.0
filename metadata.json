@@ -1,0 +1,7 @@
+{
+  "name": "Frohe Weihnachten - Festive AI Experience",
+  "description": "An interactive Christmas tree experience with gesture control and Gemini-powered festive wishes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
